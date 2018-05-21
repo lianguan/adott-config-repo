@@ -24,3 +24,12 @@ zuul:
       path: /uaa/**
       stripPrefix: false
       sensitiveHeaders:
+    adott-advert:
+      path: /advert/**
+      sensitiveHeaders:
+    adott-report:
+      path: /report/**
+      sensitiveHeaders:
+    adott-analysis:
+      path: /analysis/**
+      sensitiveHeaders:
