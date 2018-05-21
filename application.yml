@@ -31,7 +31,7 @@ spring:
 
 authserver:
     hostname: adott-auth
-    port: 5000
+    port: 8050
     contextPath: /uaa
 
 security:
